@@ -1,3 +1,7 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 body {
   background-color: rgb(216, 216, 216);
 }
@@ -15,6 +19,10 @@ body {
   max-width: 100%;
 }
 
+img {
+  padding: 0 30px;
+}
+
 header {
   margin: auto;
   text-align: center;
@@ -26,6 +34,7 @@ header {
 }
 .home-part {
   text-align: center;
+  padding: 0px 45px;
 }
 
 .home {
